@@ -1,9 +1,7 @@
 # 0x16. C - Simple Shell
-
 # Collabrative Project on Simple_Shell
-![Alt]([https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg] "Title")
+![Alt](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg "Title")
 ## AIM
-
 It’s time for the famous Simple Shell project. 
 This Deals with everything so far which Includes:
 * Basics of C
@@ -12,10 +10,10 @@ This Deals with everything so far which Includes:
 * Learning how to learn
 
 # Materials Used
-* Unix shell
-* Thompson shell
-* Ken Thompson
-* 
+* [Unix shell](https://intranet.alxswe.com/rltoken/f0YU9TAhniMXWlSXtb64Yw "Unix shell")
+* [Ken Thompson](https://intranet.alxswe.com/rltoken/wTSu31ZP1f7fFTJFgRQC7w "Ken Thompson")
+* [Thompson shell](https://intranet.alxswe.com/rltoken/7LJOp2qP7qHUcsOK2-F3qA "Thompson shell")
+
 # List of allowed functions and system calls
 * _exit (man 2 _exit)
 * fflush (man 3 fflush)
@@ -53,15 +51,15 @@ This Deals with everything so far which Includes:
 - Editors: vi, vim, emacs
 - Code Style: Betty style. To bechecked using betty-style.pl and betty-doc.pl
 - No Shell memory leaks
-- Author Files: AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. Format: Docker
+- Author Files: AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. Format: [Docker](https://intranet.alxswe.com/rltoken/UL8J3kgl7HBK_Z9iBL3JFg "Docker")
 - All files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 - All files end with a new line
 - Not More than:  5 functions per file
 - All your header files should be include guarded
 
 ## Compilation
+* Shell will be compiled this way:
 ~~~~
-shell will be compiled this way:
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 ~~~~
 
