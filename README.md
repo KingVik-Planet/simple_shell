@@ -1,7 +1,7 @@
 # 0x16. C - Simple Shell
 
 # Collabrative Project on Simple_Shell
-![Alt]([https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg) "Title")
+![Alt]([https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg] "Title")
 ## AIM
 
 It’s time for the famous Simple Shell project. 
