@@ -4,6 +4,7 @@
  * interactive - This program returns true if shell is in the interactive mode.
  * @info: This is the Struecture address of this code
  *
+ * Project: Simple Shell
  * Authors: Kingsley and Kofoworola
  * Date: 14th may 2023
  *
@@ -15,9 +16,9 @@ int interactive(info_t *info)
 }
 
 /**
- * is_delim - This Check if character are a delimeter
+ * is_delim - This Check if character are a delimeter in this program
  * @p: the char to check in the program or code
- * @delim: the delimeter string in the code
+ * @delim: This is the delimeter string in the code
  * Return: 1 if it turn out to be true, 0 if it turn out to be false
  */
 int is_delim(char p, char *delim)
