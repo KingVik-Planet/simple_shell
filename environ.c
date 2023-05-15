@@ -80,7 +80,7 @@ int _myunsetenviro(info_t *info)
 
 /**
  * pop_enviro_list - This main function is to populates the
- 		environment linked list
+ *		environment linked list
  * @info: This isStructure containing potential arguments which is to maintain
  *          constant function prototype in the variable environment
  * Description: Populating Environment List.
