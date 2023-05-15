@@ -1,14 +1,18 @@
 #include "shell.h"
 
 /**
- **_strncpy - This copies a string
- *@destin: the dest string is to be copied to
+ **_strncpy - This copies a string in the code or program
+ *@destin: the dest string is to be copied to in the program
+ *
  *@location: the source of the string to be copied
  *@k: the amount of strings  to be copied in the programme
- *AUTHOUR:kofo and kingsley
-
- *Return: the concatenated string
- **/
+ *
+ * AUTHOUR:kofo and kingsley Chika Chukwu
+ * Description: Simple shell Project
+ *
+ * Date: 15th may 2023
+ *Return: the concatenated string in the program
+ */
 char *_strncpy(char *destin, char *location, int k)
 {
 	int d, a;
@@ -33,9 +37,9 @@ char *_strncpy(char *destin, char *location, int k)
 }
 
 /**
- **_strncat -This simply concatenates two strings in the programme and 
+ **_strncat -This simply concatenates two strings in the programme
  *@destin: the first string to be included
- *location: the second string included
+ *@location: the second string included
  *@k: the amount of bytes to be maximally used
  *Return: the concatenated string
  */
@@ -61,9 +65,9 @@ char *_strncat(char *destin, char *location, int k)
 
 /**
  **_strchr - this locates the character in a string the code
- *@t: the string to be parsed
- *@p: the character to look for
- *Return: (t) a pointer to the memory area t
+ *@t: the string to be parsed in the code or program
+ *@p: the character to look for in the program or code
+ *Return: (t) a pointer to the memory area t in the program
  */
 char *_strchr(char *t, char p)
 {
