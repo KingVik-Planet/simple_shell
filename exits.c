@@ -5,7 +5,7 @@
  *@destin: the dest string is to be copied to in the program
  *
  *@location: the source of the string to be copied
- *@k: the amount of strings  to be copied in the programme
+ *@k: the amount of strings  to be copied in the programme.
  *
  * AUTHOUR:kofo and kingsley Chika Chukwu
  * Description: Simple shell Project
