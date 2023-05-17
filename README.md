@@ -1,4 +1,4 @@
-# 0x16. C - Simple Shell
+# 0x16. C - Simple Shell Project
 # Collabrative Project on Simple_Shell
 ![Alt](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg "Title")
 ## AIM
@@ -165,4 +165,4 @@ CTRL+Z # stops the current command, resume with fg in the foreground or bg in th
 ## Contributors
 * [Koroworola Mauton](https://github.com/Kofoworola001 "Kofoworola001")
 * [Kingsley Chika CHUKWU](https://github.com/KingVik-Planet "Kingsley Chika CHUKWU")
-* Date:12/05/2023		
+* Date:12/05/2023	
