@@ -42,7 +42,7 @@ int main(int jp, char **jr)
 		info->readfdec = fdec;
 	}
 	populate_env_list(info);
-	read_hist(info);
+	read_history(info);
 	hsh(info, jr);
 	return (EXIT_SUCCESS);
 }
