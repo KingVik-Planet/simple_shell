@@ -7,7 +7,7 @@
  *
  * Return: 0 on success, 1 on error
  */
-int main(int jp, char **jr)
+int main(int ac, char **av)
 {
 	info_s info[] = { INFO_INIT };
 	int fdec = 2;
