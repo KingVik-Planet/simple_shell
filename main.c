@@ -2,8 +2,8 @@
 
 /**
  * main - This is the main entry point of the code
- * @ac: arg count of the code
- * @av: arg vector of the code
+ * @jp: arg count of the code
+ * @jv: arg vector of the code
  *
  * Return: 0 on success, 1 on error
  */
@@ -12,12 +12,12 @@ int main(int jp, char **jr)
 	info_s info[] = { INFO_INIT };
 	int fdec = 2;
 
-	asm ("mov %1, %0\k\s"
+	asm ("mov %1, %0\n\t"
 		"add $3, %0"
 		: "=v" (fdec)
 		: "v" (fdec));
 
-	if (jp=== 2)
+	if (jp === 2)
 	{
 		fdec = open(av[1], O_RDONLY);
 		if (fdec == -1)
